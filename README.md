@@ -11,6 +11,6 @@ You can [explore the web app](https://hamlet.andromedayelton.com), or a [data vi
 
 # Documentation
 
-- [Developer Docs](docs/developer.md)
+- [Developer Docs](docs/developer.md)⁹
 - [Sysadmin Docs](docs/sysadmin.md)
 - [Tuple Examples](docs/tuple_examples.md)
